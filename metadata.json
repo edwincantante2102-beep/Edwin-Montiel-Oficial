@@ -1,0 +1,6 @@
+{
+  "name": "Edwin Montiel | Web Oficial & EPK",
+  "description": "Sitio web oficial y Kit de Prensa Digital (EPK Pro) de Edwin Montiel '¡Sírvalo, Sírvalo!', la voz del despecho y la música popular colombiana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
